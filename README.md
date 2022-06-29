@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Alex Faria</h1>
 <h3 align="center">A developer backend from Brazil</h3>
 
+<div>
+  <a href="https://github.com/alexfariaa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexfariaa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfariaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+### Social Networks:
+
+<div>
+  <a href="https://www.youtube.com/c/WheslleyRimar" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/wheslleyrimar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wheslleyrimar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfariaa" alt="alexfariaa" /></a> </p>
 
 - 🔭 I’m currently working on [Spotify-Proj](https://github.com/ddanilooalves/Proj_Spotify/tree/Alexx)
