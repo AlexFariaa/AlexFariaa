@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexfariaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexfariaa" alt="alexfariaa" /></a> </p>
+ 
 
 - 🔭 I’m currently working on [Spotify-Proj](https://github.com/ddanilooalves/Proj_Spotify/tree/Alexx)
 
